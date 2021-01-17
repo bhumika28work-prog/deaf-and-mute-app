@@ -27,7 +27,7 @@ iv) Histograms computation (Using visual words (bow) compute histograms for each
 v) SVM model for classification (input: histograms, output: predection for testdata) <br/>
 
 ## Results
-As the dataset images are much similar, the model has given with highest accurecy 99% with less error rate. 
+As the dataset images are similar, the model has given a very high accuracy of 99% with a very low error rate. 
 
 A demo can be watched here: https://youtu.be/8wj0D_wCf3g
 
