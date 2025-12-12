@@ -26,16 +26,5 @@ iii) K-means clustering (Codebook generation: to cluster all features and to get
 iv) Histograms computation (Using visual words (bow) compute histograms for each image) <br/>
 v) SVM model for classification (input: histograms, output: predection for testdata) <br/>
 
-## Results
-As the dataset images are much similar, the model has given with highest accurecy 99% with less error rate. 
 
-
-- Inspired by the [implementation of Rishab Guptha](https://github.com/imRishabhGupta/Indian-Sign-Language-Recognition)
-- Bag of features model post by [kaggle](https://www.kaggle.com/pierre54/bag-of-words-model-with-sift-descriptors)
-- Implementing Bag of Visual words for Object Recognition [post](https://kushalvyas.github.io/BOV.html)
-- Bag of Visual Words(BoVW) by Aybüke Yalçıner [post](https://medium.com/@aybukeyalcinerr/bag-of-visual-words-bovw-db9500331b2f)
-
-## Research paper:
-
-https://www.iosrjournals.org/iosr-jce/papers/Vol22-issue3/Series-1/B2203011419.pdf
 
