@@ -29,29 +29,6 @@ v) SVM model for classification (input: histograms, output: predection for testd
 ## Results
 As the dataset images are much similar, the model has given with highest accurecy 99% with less error rate. 
 
-A demo can be watched here: https://youtu.be/8wj0D_wCf3g
-
-## Run files
-
-Run files in order:<br/>
-**Step 1:** (Optional) To create your own Dataset run
-
->   python image_capture.py
-
-**Step 2:** If you want to use our dataset download from below and extract it in the root directory of the repository.  Then run
-
->   python imagePreprocessing.py
-
-to preprocess all the images (from raw images to histograms of bovw model) and to classify using SVM.
-
-**Step 3:** To visualise the confusion matrix run the file
-
->   python visualise.py
-
-Dataset can be downloaded from : https://drive.google.com/open?id=1keWr7-X8aR4YMotY2m8SlEHlyruDDdVi
-
-
-### Credits
 
 - Inspired by the [implementation of Rishab Guptha](https://github.com/imRishabhGupta/Indian-Sign-Language-Recognition)
 - Bag of features model post by [kaggle](https://www.kaggle.com/pierre54/bag-of-words-model-with-sift-descriptors)
